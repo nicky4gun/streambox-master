@@ -1,11 +1,13 @@
-# hvordan i greb test drevet arbejde an 
-vi tested først for at se hvad der var rød 
-vi sad fast ved de røde og gik til en fra start til bund 
-da det virked tog en af gangen ind til de var grønne 
+# Hvordan i greb test drevet arbejde an?
+- Vi testede først for at se hvad der var rød 
+- Derefter skimmede vi igennem og endte med at gå fra top til bund 
+- Vi tog en af gangen ind til de var alle vare grønne 
 
-# hvad der var sværest 
-der var ikke nogen af dem der var sværest: men det at man skulle finde ud af hvad der skulle til for at få testen grøn  var det vi vuderet svært 
+# Hvad der var sværest?
+Der var ikke noget, der var sværest som sådan: men det at man skulle finde ud af, hvad 
+der skulle til for at få testen grøn, var det vi vuderede at sværest. Også det at 
+skulle vurdere hvad er "det minimale" ift. kode der skulle implementeres.
 
-# hvad i ville for bedre hvis i haved mere tid 
-vi haved maget tid til overs 
-
+# Hvad i ville for bedre hvis i havde mere tid?
+Vi havde meget tid til overs, da opgaven gik ret hurtigt. Når først vi havde gennemskuet 
+fidusen, var det bare at køre der ud af.
