@@ -1,8 +1,8 @@
 package streambox;
 
-import dk.mikkel.streambox.Content;
-import dk.mikkel.streambox.Genre;
-import dk.mikkel.streambox.StreamBoxService;
+import dk.NicklasogJannik.streambox.Content;
+import dk.NicklasogJannik.streambox.Genre;
+import dk.NicklasogJannik.streambox.StreamBoxService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

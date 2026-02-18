@@ -1,4 +1,4 @@
-package dk.mikkel.streambox;
+package dk.NicklasogJannik.streambox;
 
 public class Main {
     public static void main(String[] args) {

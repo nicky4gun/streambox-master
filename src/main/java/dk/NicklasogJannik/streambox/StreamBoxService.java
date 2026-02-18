@@ -1,4 +1,4 @@
-package dk.mikkel.streambox;
+package dk.NicklasogJannik.streambox;
 
 import java.util.*;
 
@@ -30,7 +30,6 @@ public class StreamBoxService {
         if (ageRating != 0 && ageRating != 7 && ageRating != 11 && ageRating != 15 && ageRating != 18) {
             throw new IllegalArgumentException("Has to be a valid age rating");
         }
-
 
         Content content = new Content(nextId++, title, genre, lengthMinutes, ageRating);
         contentList.add(content);
